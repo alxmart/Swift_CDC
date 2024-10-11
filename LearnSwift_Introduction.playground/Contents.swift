@@ -10,6 +10,7 @@ import UIKit
 
 // Hello.swift
 
+
 print("Hello, world!")
 
 // Pattern.swift
@@ -22,6 +23,7 @@ print("7 8 9 10")
 // Codecademy.swift
 
 // :-)
+
 print("Codecademy")
 /* This is all commented out.
 print("hi")
@@ -181,7 +183,9 @@ total = rate1 * pesos + rate2 * reais + rate3 * soles
 
 print("US$ Dolars = $ \(total)")
 
+ 
 
+ 
 
 
 
